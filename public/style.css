@@ -1,0 +1,40 @@
+/*!
+@author: Farahmand Moslemi
+*/
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #222;
+  background-color: #cdd;
+}
+
+.container {
+  padding: 20px;
+  /*margin-top: 10px;*/
+}
+
+strong {
+  font-weight: bold;
+}
+
+ol {
+  list-style-position: inside;
+}
+ul {
+  list-style-type: none;
+}
+
+code {
+  display: block;
+  margin:6px 0;
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+}
+
+code.inline {
+  display: inline-block;
+  margin:0;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "farahmand-image-search-api",
+  "version": "1.0.0",
+  "description": "Image Search Abstraction Layer | Farahmand Moslemi | Part 4 of Free Code Camp Backend Challenges",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "pug": "^2.0.0-rc.3",
+    "request": "^2.81.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=4.4.5"
+  }
+}
