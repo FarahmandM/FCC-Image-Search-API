@@ -4,7 +4,7 @@
   "description": "Image Search Abstraction Layer | Farahmand Moslemi | Part 4 of Free Code Camp Backend Challenges",
   "dependencies": {
     "express": "^4.15.4",
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.1.13",
     "pug": "^2.0.0-rc.3",
     "request": "^2.81.0"
   },
